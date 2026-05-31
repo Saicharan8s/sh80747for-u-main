@@ -387,7 +387,7 @@ function HeartExplosion({ show, onDone }: { show: boolean; onDone: () => void })
               moments feel beautiful without even trying. I always want to see you smiling, staying
               happy, achieving all your dreams, and being the lovely person you are. Wishing you
               lots of happiness, love, and beautiful moments today and always. once again Happy
-              Birthday Birthday Birthday raa 🎂❤️✨
+              Birthday raa 🎂❤️✨
             </p>
           </div>
         </motion.div>
@@ -539,7 +539,7 @@ function PrivateGallery({ open, onClose }: { open: boolean; onClose: () => void 
                 animate={{ opacity: 1 }}
                 transition={{ duration: 0.6 }}
               >
-                <h3 className="text-center font-script text-4xl text-gradient">just for us 💕</h3>
+                <h3 className="text-center font-script text-4xl text-gradient">just for u💕</h3>
                 <p className="mt-2 text-center font-serif italic text-pink-800/70"></p>
 
                 {/* Uploader */}
